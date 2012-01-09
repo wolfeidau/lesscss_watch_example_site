@@ -6,6 +6,6 @@ Once you grab a copy of the site navigate to the base directory and run the foll
 
     python -m SimpleHTTPServer
 
-Then open <localhost:8000> in your browser.
+Then open <localhost:8000#!watch> in your browser.
 
 Open and start hacking css/style.less then scroll down to the section marked "Your styles !" and start hacking.
